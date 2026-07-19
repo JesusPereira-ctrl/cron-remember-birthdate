@@ -28,7 +28,7 @@ En caso de cambiar la hora o CronJob del sistema deberá ir al archivo en la rut
 
 ## Como crear las entidades con nombre y fecha de cumpleaños
 
-para crear la entidad existe un método POST a la siguiente URL `/api/birthdate` que recibe el siguiente esquema JSON
+para crear la entidad existe un método POST a la siguiente URL `/api/birthday` que recibe el siguiente esquema JSON
 
 ```json
 {
